@@ -48,7 +48,6 @@ def solution(places):
         answer.append(check(p))
     return answer
 
-
 def check(p):
     dx = [-1, 1, 0, 0]
     dy = [0, 0, -1, 1]

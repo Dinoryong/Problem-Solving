@@ -30,6 +30,8 @@
 
 - Sites, Blog, Lecture, Course
 
+  [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ko.md)
+
   [Python tutor](http://pythontutor.com/)
 
   [Grokking Algorithms](https://github.com/Algorithm-box/grokking_algorithms)
@@ -73,6 +75,24 @@
 9. Dry run your solution against one of the test cases to find out any bugs in your code.
 10. Listen to the interviewer they may give hints in case you are going in the wrong direction.
 
+<br/>
+
+## notes
+
+<details>
+  <summary> Click to toggle contents of 'How I studied for coding interview'</summary>
+  1. One Chapter per 2 ~ 3 days. Read through 파이썬 알고리즘 인터뷰
+  <br/>
+  2. 프로그래머스 고득점 kit
+  <br/>
+  3. 파이썬 알고리즘 인터뷰 LeetCode
+  <br/>
+  4. 프로그래머스 chapter 별 level 1 -> 2 -> 3 
+  <br/>
+  5. LeetCode Top Interview Questions
+  <br/>
+  6. fill the template form for subject
+</details>
 
 
 
@@ -80,6 +100,7 @@
 
 
 
+<br/>
 
 <br/>
 

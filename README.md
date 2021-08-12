@@ -2,13 +2,11 @@
 
 ------------
 
-> 
->
 > [toc]
 
 <br/>
 
-
+<br/>
 
 <br/>
 
@@ -187,7 +185,3 @@ The repository of problem solving (especially algorithm problems of computer sci
 ## 언어
 
 Python 을 기본으로 작성되었고, 일부 문제는 JAVA 및 JAVASCRIPT로 작성되었습니다.
-
-
-
-1. 

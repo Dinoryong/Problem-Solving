@@ -14,43 +14,51 @@
 
 ## Ref
 
-[Python tutor](http://pythontutor.com/)
-
-[Grokking Algorithms](https://github.com/Algorithm-box/grokking_algorithms)
-
-[Khan Academy](https://www.khanacademy.org/computing)
-
-[LeetCode Explore](https://leetcode.com/explore/)
-
-[Ace the Python Coding Interview](https://www.educative.io/path/ace-python-coding-interview)
-
-[Python for Data Structures, Algorithms, and Interview](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3144000?start=0#overview)
-
 - Daily ps
 
-[Interview Preparation Plan for 30 Days: 200+ coding and Behavioural questions](https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361)
+  [프로그래머스 고득점 kit](https://programmers.co.kr/learn/challenges)
 
-[Algorithm leetcode Problem Classification](https://www.programcreek.com/2013/08/leetcode-problem-classification/)
+  [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview)
 
-- [github](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
+  [LeetCode Top Interview Questions](https://leetcode.com/problem-list/wpwgkgt/)
 
-[파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview)
+  [Interview Preparation Plan for 30 Days: 200+ coding and Behavioural questions](https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361)
 
-[The Algorithms / Python](https://github.com/TheAlgorithms/Python)
+  [Algorithm leetcode Problem Classification](https://www.programcreek.com/2013/08/leetcode-problem-classification/)
+
+  [python for algorithms](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
+
+  [The Algorithms / Python](https://github.com/TheAlgorithms/Python)
+
+- Sites, Blog, Lecture, Course
+
+  [Python tutor](http://pythontutor.com/)
+
+  [Grokking Algorithms](https://github.com/Algorithm-box/grokking_algorithms)
+
+  [Khan Academy](https://www.khanacademy.org/computing)
+
+  [LeetCode Explore](https://leetcode.com/explore/)
+
+  [Ace the Python Coding Interview](https://www.educative.io/path/ace-python-coding-interview)
+
+  [Python for Data Structures, Algorithms, and Interview](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3144000?start=0#overview)
+
+  [Udacity DSA](https://classroom.udacity.com/courses/ud513)
 
 - Educative.io
 
-[Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+  [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 
-[Grokking the Coding Interview : Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+  [Grokking the Coding Interview : Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
 
 - Big-O Notation
 
-[파이썬 자료형 및 연산자의 시간 복잡도 총 정리](https://chancoding.tistory.com/43)
+  [파이썬 자료형 및 연산자의 시간 복잡도 총 정리](https://chancoding.tistory.com/43)
 
 - DFS & BFS
 
-[Cracking the DFS and BFS in FAANG Interview](https://blog.devgenius.io/cracking-the-dfs-and-bfs-in-faang-interview-5589127c3f76)
+  [Cracking the DFS and BFS in FAANG Interview](https://blog.devgenius.io/cracking-the-dfs-and-bfs-in-faang-interview-5589127c3f76)
 
 <br/>
 
@@ -89,6 +97,12 @@ Sorting and searching
 Dynamic Programming
 Sliding window
 Priority Queue and Hashmap
+
+<br/>
+
+<br/>
+
+<br/>
 
 <br/>
 

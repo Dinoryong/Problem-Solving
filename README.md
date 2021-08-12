@@ -82,3 +82,17 @@ Python 을 기본으로 작성되었고, 일부 문제는 JAVA 및 JAVASCRIPT로
 
 
 
+## Ref
+
+[Python tutor](http://pythontutor.com/)
+
+[Grokking Algorithms](https://github.com/Algorithm-box/grokking_algorithms)
+
+[Khan Academy](https://www.khanacademy.org/computing)
+
+[LeetCode Explore](https://leetcode.com/explore/)
+
+[Ace the Python Coding Interview](https://www.educative.io/path/ace-python-coding-interview)
+
+[Python for Data Structures, Algorithms, and Interview](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3144000?start=0#overview)
+

@@ -96,7 +96,21 @@ Python 을 기본으로 작성되었고, 일부 문제는 JAVA 및 JAVASCRIPT로
 
 [Python for Data Structures, Algorithms, and Interview](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3144000?start=0#overview)
 
+- Daily ps
+
+[Interview Preparation Plan for 30 Days: 200+ coding and Behavioural questions](https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361)
+
+[Algorithm leetcode Problem Classification](https://www.programcreek.com/2013/08/leetcode-problem-classification/)
+
 - [github](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
 
 [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview)
+
+[The Algorithms / Python](https://github.com/TheAlgorithms/Python)
+
+- Educative.io
+
+[Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+
+[Grokking the Coding Interview : Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
 

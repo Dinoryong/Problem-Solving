@@ -27,6 +27,8 @@
   [python for algorithms](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
 
   [The Algorithms / Python](https://github.com/TheAlgorithms/Python)
+  
+  [rhs fastcampus](https://github.com/rhs0266/FastCampus)
 
 - Sites, Blog, Lecture, Course
 
